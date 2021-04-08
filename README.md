@@ -22,5 +22,7 @@ A [Niagara](https://docs.unrealengine.com/en-US/RenderingAndGraphics/Niagara/ind
 
 Features 17 different audioreactive Niagara systems to help you get started with audio visualization in Unreal Engine.
 
-### Demo 
+### Demo video
+https://youtu.be/b1e0I4jdkNE
+
 [![AudioVisual](http://img.youtube.com/vi/b1e0I4jdkNE/0.jpg)](http://www.youtube.com/watch?v=b1e0I4jdkNE "AudioVisual")
