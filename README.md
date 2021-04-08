@@ -26,3 +26,10 @@ Features 17 different audioreactive Niagara systems to help you get started with
 https://youtu.be/b1e0I4jdkNE
 
 [![AudioVisual](http://img.youtube.com/vi/b1e0I4jdkNE/0.jpg)](http://www.youtube.com/watch?v=b1e0I4jdkNE "AudioVisual")
+
+
+### Audio content in project (Copyright free music):
+- [Cused - Antiquee](https://www.youtube.com/watch?v=GXipIE_gGBE)
+- [NIVIRO - The Ghost](https://www.youtube.com/watch?v=lTEzfj8IAR0)
+- [AMARTEX - Fantasia](https://www.youtube.com/watch?v=taku7Uy63Ho)
+- [Horyzon - Eclipse](https://youtu.be/QucF5KBqhUw)
