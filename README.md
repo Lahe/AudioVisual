@@ -20,7 +20,7 @@ A [Niagara](https://docs.unrealengine.com/en-US/RenderingAndGraphics/Niagara/ind
 
 ## Niagara Audio Visualization pack
 
-Features 17 different audioreactive Niagara systems to help you get started with audio visualization in Unreal Engine.
+Features 17 different audioreactive Niagara systems to help you get started with audio visualization in Unreal Engine. Can also be used as standalone visualizers.
 
 ### Demo video
 https://youtu.be/b1e0I4jdkNE
@@ -33,3 +33,7 @@ https://youtu.be/b1e0I4jdkNE
 - [NIVIRO - The Ghost](https://www.youtube.com/watch?v=lTEzfj8IAR0)
 - [AMARTEX - Fantasia](https://www.youtube.com/watch?v=taku7Uy63Ho)
 - [Horyzon - Eclipse](https://youtu.be/QucF5KBqhUw)
+
+
+### Contact
+For more information contact me on Discord at Spree#3506
